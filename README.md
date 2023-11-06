@@ -22,4 +22,33 @@ This project is hoped to give answers to the questions of stakeholder in terms o
 2.	Excel
 3.	Power BI desktop – DAX language, DAX studio for optimizing the report
 
+## Project Outcome
+
+Designed a multi-view dashboard in Power BI for 4 departments (sales, finance, supply chain and marketing) of AtliQ Hardware to understand sales trends and facilitate data-driven decisions, which aimed to scale the business processes by 10%.
+Optimized the report using DAX studio, which improved performance by 5%.
+
+## Overall Report
+
+---
+<img src="https://github.com/RamyaRamaiah/Global-Business-Insights-360/blob/main/Dashboard/Final%20Report.gif" width="600" class="center">
+
+#### Finance View
+
+---
+<img src="https://github.com/RamyaRamaiah/Global-Business-Insights-360/blob/main/Dashboard/Finance%20View.png" width="550" class="center">
+
+#### Sales View
+
+---
+<img src="https://github.com/RamyaRamaiah/Global-Business-Insights-360/blob/main/Dashboard/Sales%20View.png" width="550" class="center">
+
+#### Marketing View
+
+---
+<img src="https://github.com/RamyaRamaiah/Global-Business-Insights-360/blob/main/Dashboard/Marketing%20View.png" width="550" class="center">
+
+#### SupplyChain View
+
+---
+<img src="https://github.com/RamyaRamaiah/Global-Business-Insights-360/blob/main/Dashboard/Supply%20Chain%20View.png" width="550" class="center">
 
